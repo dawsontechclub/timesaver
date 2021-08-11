@@ -1,7 +1,8 @@
 module.exports = {
+  pathPrefix: `/timesaver`,
   siteMetadata: {
     title: `Timesaver`,
-    description: `Automatic course scheduler that saves time!`,
+    description: `An automatic course scheduler that saves time!`,
     author: `@gatsbyjs`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },

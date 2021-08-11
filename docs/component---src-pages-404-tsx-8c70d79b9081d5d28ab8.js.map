@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-404-tsx-8c70d79b9081d5d28ab8.js","mappings":"gMAEe,SAAS,IACpB,OAAO","sources":["webpack://gatsby-starter-default/./src/pages/404.tsx"],"sourcesContent":["import React from \"react\"\r\n\r\nexport default function () {\r\n    return <div>404</div>\r\n}"],"names":[],"sourceRoot":""}
