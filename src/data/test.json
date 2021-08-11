@@ -1,0 +1,14 @@
+{
+    "english": {
+        "easy": {
+            "0": ["Alice", [
+                [0, 500, 700, "location"]
+            ]]
+        },
+        "medium": {
+            "0": ["Alice", [
+                [0, 600, 700, "location"]
+            ]]
+        }
+    }
+}
