@@ -28,6 +28,5 @@ export function generateSchedules(courses: Course[]) {
     schedule.evaluate(shorterDays)
   }
   schedules.sort((a,b) => b.score - a.score)
-  console.log([...schedules])
   return schedules
 }
